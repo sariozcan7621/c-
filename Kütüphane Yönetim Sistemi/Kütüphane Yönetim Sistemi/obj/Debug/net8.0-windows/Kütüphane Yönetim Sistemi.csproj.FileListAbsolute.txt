@@ -1,0 +1,62 @@
+C:\Users\ozcan\source\repos\Kütüphane Yönetim Sistemi\Kütüphane Yönetim Sistemi\bin\Debug\net8.0-windows\Kütüphane Yönetim Sistemi.exe
+C:\Users\ozcan\source\repos\Kütüphane Yönetim Sistemi\Kütüphane Yönetim Sistemi\bin\Debug\net8.0-windows\Kütüphane Yönetim Sistemi.deps.json
+C:\Users\ozcan\source\repos\Kütüphane Yönetim Sistemi\Kütüphane Yönetim Sistemi\bin\Debug\net8.0-windows\Kütüphane Yönetim Sistemi.runtimeconfig.json
+C:\Users\ozcan\source\repos\Kütüphane Yönetim Sistemi\Kütüphane Yönetim Sistemi\bin\Debug\net8.0-windows\Kütüphane Yönetim Sistemi.dll
+C:\Users\ozcan\source\repos\Kütüphane Yönetim Sistemi\Kütüphane Yönetim Sistemi\bin\Debug\net8.0-windows\Kütüphane Yönetim Sistemi.pdb
+C:\Users\ozcan\source\repos\Kütüphane Yönetim Sistemi\Kütüphane Yönetim Sistemi\obj\Debug\net8.0-windows\Kütüphane Yönetim Sistemi.csproj.GenerateResource.cache
+C:\Users\ozcan\source\repos\Kütüphane Yönetim Sistemi\Kütüphane Yönetim Sistemi\obj\Debug\net8.0-windows\Kütüphane Yönetim Sistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozcan\source\repos\Kütüphane Yönetim Sistemi\Kütüphane Yönetim Sistemi\obj\Debug\net8.0-windows\Kütüphane Yönetim Sistemi.AssemblyInfoInputs.cache
+C:\Users\ozcan\source\repos\Kütüphane Yönetim Sistemi\Kütüphane Yönetim Sistemi\obj\Debug\net8.0-windows\Kütüphane Yönetim Sistemi.AssemblyInfo.cs
+C:\Users\ozcan\source\repos\Kütüphane Yönetim Sistemi\Kütüphane Yönetim Sistemi\obj\Debug\net8.0-windows\Kütüphane Yönetim Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\ozcan\source\repos\Kütüphane Yönetim Sistemi\Kütüphane Yönetim Sistemi\obj\Debug\net8.0-windows\Kütüphane Yönetim Sistemi.dll
+C:\Users\ozcan\source\repos\Kütüphane Yönetim Sistemi\Kütüphane Yönetim Sistemi\obj\Debug\net8.0-windows\refint\Kütüphane Yönetim Sistemi.dll
+C:\Users\ozcan\source\repos\Kütüphane Yönetim Sistemi\Kütüphane Yönetim Sistemi\obj\Debug\net8.0-windows\Kütüphane Yönetim Sistemi.pdb
+C:\Users\ozcan\source\repos\Kütüphane Yönetim Sistemi\Kütüphane Yönetim Sistemi\obj\Debug\net8.0-windows\Kütüphane Yönetim Sistemi.genruntimeconfig.cache
+C:\Users\ozcan\source\repos\Kütüphane Yönetim Sistemi\Kütüphane Yönetim Sistemi\obj\Debug\net8.0-windows\ref\Kütüphane Yönetim Sistemi.dll
+C:\Users\ozcan\source\repos\Kütüphane Yönetim Sistemi\Kütüphane Yönetim Sistemi\obj\Debug\net8.0-windows\Kütüphane Yönetim Sistemi.csproj.AssemblyReference.cache
+C:\Users\ozcan\source\repos\Kütüphane Yönetim Sistemi\Kütüphane Yönetim Sistemi\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\ozcan\source\repos\Kütüphane Yönetim Sistemi\Kütüphane Yönetim Sistemi\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\ozcan\source\repos\Kütüphane Yönetim Sistemi\Kütüphane Yönetim Sistemi\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ozcan\source\repos\Kütüphane Yönetim Sistemi\Kütüphane Yönetim Sistemi\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\ozcan\source\repos\Kütüphane Yönetim Sistemi\Kütüphane Yönetim Sistemi\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\ozcan\source\repos\Kütüphane Yönetim Sistemi\Kütüphane Yönetim Sistemi\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ozcan\source\repos\Kütüphane Yönetim Sistemi\Kütüphane Yönetim Sistemi\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\ozcan\source\repos\Kütüphane Yönetim Sistemi\Kütüphane Yönetim Sistemi\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ozcan\source\repos\Kütüphane Yönetim Sistemi\Kütüphane Yönetim Sistemi\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ozcan\source\repos\Kütüphane Yönetim Sistemi\Kütüphane Yönetim Sistemi\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\ozcan\source\repos\Kütüphane Yönetim Sistemi\Kütüphane Yönetim Sistemi\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ozcan\source\repos\Kütüphane Yönetim Sistemi\Kütüphane Yönetim Sistemi\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ozcan\source\repos\Kütüphane Yönetim Sistemi\Kütüphane Yönetim Sistemi\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ozcan\source\repos\Kütüphane Yönetim Sistemi\Kütüphane Yönetim Sistemi\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\ozcan\source\repos\Kütüphane Yönetim Sistemi\Kütüphane Yönetim Sistemi\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\ozcan\source\repos\Kütüphane Yönetim Sistemi\Kütüphane Yönetim Sistemi\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\ozcan\source\repos\Kütüphane Yönetim Sistemi\Kütüphane Yönetim Sistemi\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\ozcan\source\repos\Kütüphane Yönetim Sistemi\Kütüphane Yönetim Sistemi\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ozcan\source\repos\Kütüphane Yönetim Sistemi\Kütüphane Yönetim Sistemi\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\ozcan\source\repos\Kütüphane Yönetim Sistemi\Kütüphane Yönetim Sistemi\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\ozcan\source\repos\Kütüphane Yönetim Sistemi\Kütüphane Yönetim Sistemi\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ozcan\source\repos\Kütüphane Yönetim Sistemi\Kütüphane Yönetim Sistemi\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ozcan\source\repos\Kütüphane Yönetim Sistemi\Kütüphane Yönetim Sistemi\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ozcan\source\repos\Kütüphane Yönetim Sistemi\Kütüphane Yönetim Sistemi\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ozcan\source\repos\Kütüphane Yönetim Sistemi\Kütüphane Yönetim Sistemi\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ozcan\source\repos\Kütüphane Yönetim Sistemi\Kütüphane Yönetim Sistemi\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ozcan\source\repos\Kütüphane Yönetim Sistemi\Kütüphane Yönetim Sistemi\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ozcan\source\repos\Kütüphane Yönetim Sistemi\Kütüphane Yönetim Sistemi\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ozcan\source\repos\Kütüphane Yönetim Sistemi\Kütüphane Yönetim Sistemi\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ozcan\source\repos\Kütüphane Yönetim Sistemi\Kütüphane Yönetim Sistemi\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ozcan\source\repos\Kütüphane Yönetim Sistemi\Kütüphane Yönetim Sistemi\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ozcan\source\repos\Kütüphane Yönetim Sistemi\Kütüphane Yönetim Sistemi\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ozcan\source\repos\Kütüphane Yönetim Sistemi\Kütüphane Yönetim Sistemi\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ozcan\source\repos\Kütüphane Yönetim Sistemi\Kütüphane Yönetim Sistemi\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ozcan\source\repos\Kütüphane Yönetim Sistemi\Kütüphane Yönetim Sistemi\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ozcan\source\repos\Kütüphane Yönetim Sistemi\Kütüphane Yönetim Sistemi\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ozcan\source\repos\Kütüphane Yönetim Sistemi\Kütüphane Yönetim Sistemi\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\ozcan\source\repos\Kütüphane Yönetim Sistemi\Kütüphane Yönetim Sistemi\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\ozcan\source\repos\Kütüphane Yönetim Sistemi\Kütüphane Yönetim Sistemi\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\ozcan\source\repos\Kütüphane Yönetim Sistemi\Kütüphane Yönetim Sistemi\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\ozcan\source\repos\Kütüphane Yönetim Sistemi\Kütüphane Yönetim Sistemi\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\ozcan\source\repos\Kütüphane Yönetim Sistemi\Kütüphane Yönetim Sistemi\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\ozcan\source\repos\Kütüphane Yönetim Sistemi\Kütüphane Yönetim Sistemi\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\ozcan\source\repos\Kütüphane Yönetim Sistemi\Kütüphane Yönetim Sistemi\obj\Debug\net8.0-windows\Kütüphan.8E12F0D6.Up2Date
+C:\Users\ozcan\source\repos\Kütüphane Yönetim Sistemi\Kütüphane Yönetim Sistemi\obj\Debug\net8.0-windows\Kütüphane_Yönetim_Sistemi.FormGiriş.resources
+C:\Users\ozcan\source\repos\Kütüphane Yönetim Sistemi\Kütüphane Yönetim Sistemi\obj\Debug\net8.0-windows\Kütüphane_Yönetim_Sistemi.FormKitaplar.resources
